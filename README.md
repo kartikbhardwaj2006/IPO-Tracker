@@ -47,5 +47,6 @@ No backend setup required. 🚀
 
 📊 Implement sorting by date, company, or issue size.
 
+Made with ❤️ by Kartik Bhardwaj
 📜 License
 This project is licensed under the MIT License 📝 – see the LICENSE file for details.
